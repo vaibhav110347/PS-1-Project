@@ -3,4 +3,4 @@ train,ThumbsUp,thumbs_up2,15
 train,ThumbsDown,thumbs_down,90
 train,ThumbsDown,thumbs_down2,50
 train,Stop,stop,60
-train,Stop,stop_2,60
+test,Stop,stop_2,60
